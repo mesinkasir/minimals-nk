@@ -26,11 +26,11 @@ Home Page
 
 Blog and Doc Page
 
-![Get Nikola Themes](assets/img/desktops.jpg)
+![Get Nikola Themes](assets/img/desktops.png)
 
 Desktop Peformance
 
-![Get Nikola Themes](assets/img/mobiles.jpg)
+![Get Nikola Themes](assets/img/mobiles.png)
 
 Mobile Peformance
 
