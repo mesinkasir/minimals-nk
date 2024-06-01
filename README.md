@@ -10,6 +10,8 @@ Run Demo [https://www.hockeycomputindo.com/dokumentasi/programrestoranmurah/](ht
 
 Documentation: [https://www.hockeycomputindo.com/themes/nikola/minimals-new-nikola-themes/](https://www.hockeycomputindo.com/themes/nikola/minimals-new-nikola-themes/)
 
+Configuration file example on `conf.py.exaple`
+
 -----------------------------------------------------------
 
 ### Buy me a coffee ☕️ ❤️  ✌🏻 
