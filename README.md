@@ -4,7 +4,7 @@
 
 Develope by [Creativitas](https://creativitas.dev)
 
-Hire developer [https://www.hockeycomputindo.com/en/jamstack/]([https://fiverr.com/creativitas](https://www.hockeycomputindo.com/en/jamstack/))
+Hire developer [https://www.hockeycomputindo.com/en/jamstack/](https://www.hockeycomputindo.com/en/jamstack/)
 
 Run Demo [https://www.hockeycomputindo.com/dokumentasi/programrestoranmurah/](https://www.hockeycomputindo.com/dokumentasi/programrestoranmurah/)
 
