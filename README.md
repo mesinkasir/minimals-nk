@@ -2,13 +2,7 @@
 
 ## A minimalist themes for python nikola static site generator
 
-Develope by [Creativitas](https://creativitas.dev)
-
-Hire developer [https://www.hockeycomputindo.com/en/jamstack/](https://www.hockeycomputindo.com/en/jamstack/)
-
-Run Demo [https://www.hockeycomputindo.com/dokumentasi/programrestoranmurah/](https://www.hockeycomputindo.com/dokumentasi/programrestoranmurah/)
-
-Documentation: [https://www.hockeycomputindo.com/themes/nikola/minimals-new-nikola-themes/](https://www.hockeycomputindo.com/themes/nikola/minimals-new-nikola-themes/)
+Explore all projects: https://www.hockeycomputindo.com
 
 Configuration file example on `conf.py.example`
 
